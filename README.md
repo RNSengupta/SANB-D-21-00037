@@ -1,5 +1,5 @@
-#800000**SANB-D-21-00037**
-#800000**SANB-D-21-00037: Codes, Pseudocode, Plan of codes**
+**SANB-D-21-00037**
+**SANB-D-21-00037: Codes, Pseudocode, Plan of codes**
 
 Files are the codes, pseudo-code and plan of code
 
@@ -11,4 +11,4 @@ Rachit SETH, IIT Kanpur, INDIA
 
 Peter WINKER, University Giessen, GERMANY
 
-Sankhya B: Special Issue on Recent Advances in Statistical Finance
+_Sankhya B: Special Issue on Recent Advances in Statistical Finance_
