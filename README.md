@@ -10,4 +10,6 @@ _Sankhya B: Special Issue on Recent Advances in Statistical Finance_
 
 (01) SANB-D-21-00037_MATLAB_Codes: Detailed MATLAB codes for all the program inlcuding optimization, reliabiity based optimization, data pre-processing, boot strapping etc.
 
-(02) SANB-D-21-00037_Plan_of_Codes: General plan of runnign the codes
+(02) SANB-D-21-00037_Plan_of_Codes: General plan of running the codes
+
+(03) SANB-D-21-00037_Pseudo_Code: General pseudo codes
